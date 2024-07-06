@@ -21,7 +21,7 @@ export default function Home() {
         }}
       >
         <Select name="country">
-          <Label>Your Country</Label>
+          <Label>Country</Label>
           <Button>
             <SelectValue />
             <span aria-hidden="true">▼</span>
